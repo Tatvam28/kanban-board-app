@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
-import { Camera, User, AlertCircle } from 'lucide-react';
+import { AlertCircle } from 'lucide-react';
 
 const priorityIcons = {
   4: <AlertCircle size={16} color="red" />,
